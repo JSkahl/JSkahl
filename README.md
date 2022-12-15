@@ -1,4 +1,4 @@
-<h2 align="center"> Always progressing </h2>
+<h2 align="center" style="color: red;"> Always progressing </h2>
 
 <div>
  
