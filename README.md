@@ -1,16 +1,22 @@
-### Hi there 👋
+<h2 align="center"> Always progressing </h2>
 
-<!--
-**JSkahl/JSkahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+ 
+   <img align="center" src="https://github-readme-stats-astatsu.vercel.app/api?username=JSkahl&show_icons=true&theme=maroongold&line_height=27" alt="Meus Stats do Github" style="max-width:100%;" height="180em">
+  
+   <img align="center" src="https://github-readme-stats-astatsu.vercel.app/api/top-langs/?username=JSkahl&theme=maroongold&layout=compact&hide=css,procfile" style="max-width:100%;" height="180em">
+ 
+   <img alt="JSkahl" src="https://github-readme-streak-stats.herokuapp.com?user=JSkahl&theme=maroongold" style="max-width:100%;" width="430" align="middle">
+  
+ </a>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+ 
+ <a href="https://github.com/JSkahl">
+   <img alt="Meu Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="max-width:100%;"/>
+ </a>
+
+</div>
